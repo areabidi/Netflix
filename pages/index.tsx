@@ -4,7 +4,7 @@
 export default function Home() {
   return (
    <>
-    my app
+    <h1 className="text-2xl text-green-500">My App</h1>
    </>
   );
 }
